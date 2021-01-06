@@ -4,9 +4,9 @@ const TimeUuid = require('cassandra-driver').types.TimeUuid;
 // This is the Zip file you downloaded
 const SECURE_CONNECT_BUNDLE = '/workspace/workshop-crud-with-python-and-node/crud-nodejs/creds.zip'
 // This is the username, recommended value was SUser
-const USERNAME = "SUser";
+const USERNAME = "hoddb";
 // This is the password, recommended value was SPassword1
-const PASSWORD = "SPassword1";
+const PASSWORD = "12345678";
 // This is the keyspace name, recommended value was spacecraft
 const KEYSPACE = "spacecraft"; 
 
